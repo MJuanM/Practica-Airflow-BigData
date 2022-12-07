@@ -1,5 +1,5 @@
 # Proyecto #2 - Big Data
-🙌🏽
+
 ## Client: Stack Overflow
 ### Situación inicial
 
@@ -25,8 +25,3 @@ Como parte de un equipo de desarrollo y data analytics, deberás analizar, repor
 documentar el procesamiento del set de datos recibido para obtener las comparaciones y
 mediciones requeridas por el grupo administrador de Stack Overflow.
 
-### Assets
-🎨
-El dataset que nos compartió Stack Overflow se encuentra haciendo click aquí.
-
-https://drive.google.com/drive/folders/177pT0qAizXLfw4lpuDBy6u-lFLEVegXx
